@@ -4,11 +4,11 @@
 ![Android Unit Test CI](https://github.com/DATL4G/Skeleton-Android/workflows/Android%20Unit%20Test%20CI/badge.svg)
 ![Android Build CI](https://github.com/DATL4G/Skeleton-Android/workflows/Android%20Build%20CI/badge.svg)
 
-[![Stars](https://img.shields.io/github/stars/DATL4G/Skeleton-Android.svg)](https://github.com/DATL4G/OpenFE-Android)
+[![Stars](https://img.shields.io/github/stars/DATL4G/Skeleton-Android.svg)](https://github.com/DATL4G/Skeleton-Android)
 
-[![Forks](https://img.shields.io/github/forks/DATL4G/Skeleton-Android.svg)](https://github.com/DATL4G/OpenFE-Android)
+[![Forks](https://img.shields.io/github/forks/DATL4G/Skeleton-Android.svg)](https://github.com/DATL4G/Skeleton-Android)
 
-[![License](https://img.shields.io/github/license/DATL4G/Skeleton-Android.svg)](https://github.com/DATL4G/OpenFE-Android)
+[![License](https://img.shields.io/github/license/DATL4G/Skeleton-Android.svg)](https://github.com/DATL4G/Skeleton-Android)
 
 Skeleton-Android is an open source skeleton application for Android apps
 * working and easy to use Android project out of the box

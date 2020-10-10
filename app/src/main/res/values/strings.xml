@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Skeleton</string>
+  <string name="description">Skeleton Application</string>
+
+  <string name="delete">Delete</string>
+  <string name="reload">Reload</string>
+</resources>
